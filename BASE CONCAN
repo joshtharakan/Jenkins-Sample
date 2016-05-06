@@ -1,0 +1,75 @@
+// Concatenate and minify JavaScript. Optionally transpiles ES2015 code to ES5.
+// to enables ES2015 support remove the line `"only": "gulpfile.babel.js",` in the
+// `.babelrc` file.
+gulp.task('scripts', () =>
+gulp.src([
+    // Note: Since we are not using useref in the scripts build pipeline,
+    //       you need to explicitly list your scripts here in the right order
+    //       to be correctly concatenated
+    './app/scripts/main.js',
+    './app/assets/js/jquery.min.js',
+    './app/assets/js/jquery-migrate.min.js',
+    './app/assets/js/jquery-migrate-1.2.1.min.js',
+    './app/assets/js/moderniz.min.js',
+    './app/assets/js/jquery.backstretch.min.js',
+    './app/assets/js/jquery.easing.1.3.js',
+    './app/assets/js/jquery.particleground.js',
+    './app/assets/js/jquery.sticky.js',
+    './app/assets/js/jquery.magnific-popup.min.js',
+    './app/assets/js/jquery.flexslider-min.js',
+    './app/assets/js/jquery.imagesloaded.min.js',
+    './app/assets/bootstrap/js/bootstrap.js',
+    './app/assets/bootstrap/js/bootstrap.min.js',
+    './app/assets/js/bootstrap-hover-dropdown.min.js',
+
+
+    './app/assets/js/parallax.min.js',
+    './app/assets/js/tweetie.min.js',
+    './app/assets/js/waypoints.min.js',
+
+    './app/assets/js/wow.min.js',
+    './app/assets/js/template.js',
+    './app/assets/js/contact-form.js',
+    './app/assets/js/pace.min.js',
+    './app/assets/js/pricing.js',
+
+    './app/assets/video-background/background.js',
+    './app/assets/video-background/transition.js',
+    './app/assets/video-background/core.js',
+
+    './app/assets/js/revolution-custom.js',
+    './app/assets/rs-plugin/js/jquery.themepunch.tools.min.js',
+    './app/assets/rs-plugin/js/jquery.themepunch.revolution.min.js',
+    './app/assets/rs-plugin/js/jquery.themepunch.revolution.js',
+    './app/assets/rs-plugin/js/jquery.themepunch.enablelog.js',
+
+
+
+    './app/assets/cubeportfolio/js/jquery.cubeportfolio.js',
+    './app/assets/cubeportfolio/js/jquery.cubeportfolio.min.js',
+
+    './app/assets/js/cube-portfolio.js',
+    './app/assets/js/cube-portfolio.min.js',
+
+
+    './app/assets/master-slider/js/masterslider.js',
+    './app/assets/master-slider/js/masterslider.min.js',
+
+    './app/assets/js/masterslider-custom.js'
+
+
+
+    // Other scripts
+  ])
+  .pipe($.newer('.tmp/scripts'))
+  .pipe($.sourcemaps.init())
+  .pipe($.babel())
+  .pipe($.sourcemaps.write())
+  .pipe(gulp.dest('.tmp/scripts'))
+  .pipe($.concat('main.min.js'))
+  .pipe($.uglify({preserveComments: 'some'}))
+  // Output files
+  .pipe($.size({title: 'scripts'}))
+  .pipe($.sourcemaps.write('.'))
+  .pipe(gulp.dest('dist/scripts'))
+);

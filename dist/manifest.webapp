@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "EduDefine - Redefining Education",
+  "launch_path": "/index.html",
+  "description": "Redefining Education by providing cutting edge technology products to Educational Institutions",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Joseph Tharakan",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "EduDefine - Redefining Education",
+      "description": "Redefining Education by providing cutting edge technology products to Educational Institutions"
+    }
+  }
+}
