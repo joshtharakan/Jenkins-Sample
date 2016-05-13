@@ -6,6 +6,7 @@ jQuery(document).ready(function () {
                 delay: 6000,
                 startwidth: 1170,
 //                startheight: 650,
+                lazyType:"smart",
                 hideThumbs: 10,
                 fullScreen: "on",
                 forceFullWidth: "on",
