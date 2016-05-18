@@ -318,6 +318,10 @@ gulp.task('html', () => {
     .pipe(gulp.dest('dist'));
 });
 
+gulp.task('cacheClear',() =>
+
+$.cache.clearAll()
+);
 // Clean output directory
 gulp.task('clean', () => del(['.tmp', 'dist/*', '!dist/.git'], {dot: true}));
 
@@ -360,7 +364,7 @@ gulp.task('serve:dist', ['default'], () =>
 );
 
 // Build production files, the default task
-gulp.task('default', ['clean'], () =>
+gulp.task('default',['cacheClear','clean'], () =>
   runSequence(
     'styles',
     'scripts1',
