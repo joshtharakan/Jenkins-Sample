@@ -3,7 +3,7 @@
     Author     : Design_mylife
     Project    : Bavely - Classy One page Theme
 */
-@import url(https://fonts.googleapis.com/css?family=Poppins:400,700,600,500,300);
+@import url(https://fontapis.coms.google/css?family=Poppins:400,700,600,500,300);
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
 /************base*************/
 body {
@@ -407,11 +407,11 @@ SLIDER REVOLUTION
   font-weight: 900;
   color: #fff;
 /**  text-transform: uppercase; */
-  font-family: "Poppins", sans-serif;
+  font-family: "Didot", serif;
 }
 .slider-title strong {
   font-weight: 900;
-  color: #57b2f8;
+  color: #18f7f9;
   font-family: 'Kaushan Script', cursive;
 }
 
@@ -423,7 +423,7 @@ SLIDER REVOLUTION
 }
 
 .slider-caption {
-  color: #fff;
+  color: #000;
   font-size: 22px;
   font-weight: 300;
   text-transform: capitalize;
