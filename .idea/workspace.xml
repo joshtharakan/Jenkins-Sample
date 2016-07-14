@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaf4486d-499c-4776-ae89-5bc935d8f5f6" name="Default" comment="changed transition">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/0bc07d6063f80d6d8ef83ebdd850ded499b917dd/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/0bc07d6063f80d6d8ef83ebdd850ded499b917dd/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/0bc07d6063f80d6d8ef83ebdd850ded499b917dd/mobile-app.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/0bc07d6063f80d6d8ef83ebdd850ded499b917dd/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/2f6362f3bdda145aca2c8eccedc0e4b0ba272ea7/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/2f6362f3bdda145aca2c8eccedc0e4b0ba272ea7/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/2f6362f3bdda145aca2c8eccedc0e4b0ba272ea7/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/34a06bf41b0f0bbdf0a3a51c1c6a2ff06b299e43/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/34a06bf41b0f0bbdf0a3a51c1c6a2ff06b299e43/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/34a06bf41b0f0bbdf0a3a51c1c6a2ff06b299e43/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/5e28f93f4031cd94a1d85c2bcc41620b51ee8578/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/5e28f93f4031cd94a1d85c2bcc41620b51ee8578/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/5e28f93f4031cd94a1d85c2bcc41620b51ee8578/style-background-slider.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/5e28f93f4031cd94a1d85c2bcc41620b51ee8578/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/617a1bb186edbd324b9379e0dc3dcd3eaf7fe4ea/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/617a1bb186edbd324b9379e0dc3dcd3eaf7fe4ea/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/617a1bb186edbd324b9379e0dc3dcd3eaf7fe4ea/style-background-slider.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/617a1bb186edbd324b9379e0dc3dcd3eaf7fe4ea/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/67d7cda509c3d893fbbae86e9e67fcba902aaf11/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/67d7cda509c3d893fbbae86e9e67fcba902aaf11/_navbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/67d7cda509c3d893fbbae86e9e67fcba902aaf11/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/78c806848359e8a4aac2cf741963a991ffcdfca9/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/78c806848359e8a4aac2cf741963a991ffcdfca9/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/78c806848359e8a4aac2cf741963a991ffcdfca9/style-background-slider.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/78c806848359e8a4aac2cf741963a991ffcdfca9/style-dark.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/78c806848359e8a4aac2cf741963a991ffcdfca9/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/7e4a67126b3d986135c16aad2e2a213aff8f08c9/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/7e4a67126b3d986135c16aad2e2a213aff8f08c9/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/7e4a67126b3d986135c16aad2e2a213aff8f08c9/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/8dcb3da30d4b498210ebcb6a9bfbe1f926df01ce/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/8dcb3da30d4b498210ebcb6a9bfbe1f926df01ce/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/8dcb3da30d4b498210ebcb6a9bfbe1f926df01ce/style-background-slider.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/8dcb3da30d4b498210ebcb6a9bfbe1f926df01ce/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/9ad34b6db23d27661313593cc157f046dc4ffc17/_reset.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/9e59a88cdf91cd8390ceddbea90858acc463465a/_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/a101243133d49919890e3414d93cff1ec04bc6b0/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/a101243133d49919890e3414d93cff1ec04bc6b0/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/a101243133d49919890e3414d93cff1ec04bc6b0/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/d3b065bf63b9dadcff67ee63df97d6bd0bd64771/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/d7d2c1edc3cc4118f120eac85127e0531e7726c5/ie.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/d7d2c1edc3cc4118f120eac85127e0531e7726c5/print.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/d7d2c1edc3cc4118f120eac85127e0531e7726c5/screen.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/d7d2c1edc3cc4118f120eac85127e0531e7726c5/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/ec4b22b90c946802f81546934d489543396c05ff/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/ec4b22b90c946802f81546934d489543396c05ff/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.sass-cache/ec4b22b90c946802f81546934d489543396c05ff/style.scssc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/Edu.png" afterPath="$PROJECT_DIR$/app/assets/images/Edu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/404.html" afterPath="$PROJECT_DIR$/app/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/ajax/project1.html" afterPath="$PROJECT_DIR$/app/assets/ajax/project1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/ajax/project2.html" afterPath="$PROJECT_DIR$/app/assets/ajax/project2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/ajax/project3.html" afterPath="$PROJECT_DIR$/app/assets/ajax/project3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/css/style.css" afterPath="$PROJECT_DIR$/app/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/blog-single.html" afterPath="$PROJECT_DIR$/app/blog-single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config.rb" afterPath="$PROJECT_DIR$/app/config.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/humans.txt" afterPath="$PROJECT_DIR$/app/humans.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/manifest.json" afterPath="$PROJECT_DIR$/app/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/manifest.webapp" afterPath="$PROJECT_DIR$/app/manifest.webapp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/robots.txt" afterPath="$PROJECT_DIR$/app/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/service-worker.js" afterPath="$PROJECT_DIR$/app/service-worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/.htaccess" afterPath="$PROJECT_DIR$/dist/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/404.html" afterPath="$PROJECT_DIR$/dist/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/ajax/project1.html" afterPath="$PROJECT_DIR$/dist/assets/ajax/project1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/ajax/project2.html" afterPath="$PROJECT_DIR$/dist/assets/ajax/project2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/ajax/project3.html" afterPath="$PROJECT_DIR$/dist/assets/ajax/project3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/css/flexslider.css" afterPath="$PROJECT_DIR$/dist/assets/css/flexslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/css/magnific-popup.css" afterPath="$PROJECT_DIR$/dist/assets/css/magnific-popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/css/master-slider-custom.css" afterPath="$PROJECT_DIR$/dist/assets/css/master-slider-custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/css/pricing.css" afterPath="$PROJECT_DIR$/dist/assets/css/pricing.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/css/style-background-slider.css" afterPath="$PROJECT_DIR$/dist/assets/css/style-background-slider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/css/style.css" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/css/style.css.map" afterPath="$PROJECT_DIR$/dist/assets/css/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/js/jquery.easing.1.3.min.js" afterPath="$PROJECT_DIR$/dist/assets/js/jquery.easing.1.3.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/js/jquery.sticky.min.js" afterPath="$PROJECT_DIR$/dist/assets/js/jquery.sticky.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/js/tweetie.min.js" afterPath="$PROJECT_DIR$/dist/assets/js/tweetie.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/black-1/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/black-1/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/black-2/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/black-2/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/contrast/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/contrast/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/default/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/default/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-2/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-2/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-3/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-3/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-4/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-4/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-5/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-5/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-6/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/light-6/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/skins/metro/style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/skins/metro/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/master-slider/style/ms-phone-style.css" afterPath="$PROJECT_DIR$/dist/assets/master-slider/style/ms-phone-style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/rs-plugin/css/settings-ie8.css" afterPath="$PROJECT_DIR$/dist/assets/rs-plugin/css/settings-ie8.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/rs-plugin/css/settings.css" afterPath="$PROJECT_DIR$/dist/assets/rs-plugin/css/settings.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/assets/video-background/background.css" afterPath="$PROJECT_DIR$/dist/assets/video-background/background.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/blog-single.html" afterPath="$PROJECT_DIR$/dist/blog-single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/config.rb" afterPath="$PROJECT_DIR$/dist/config.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/humans.txt" afterPath="$PROJECT_DIR$/dist/humans.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/manifest.json" afterPath="$PROJECT_DIR$/dist/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/manifest.webapp" afterPath="$PROJECT_DIR$/dist/manifest.webapp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/robots.txt" afterPath="$PROJECT_DIR$/dist/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/scripts/sw/sw-toolbox.js" afterPath="$PROJECT_DIR$/dist/scripts/sw/sw-toolbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/service-worker.js" afterPath="$PROJECT_DIR$/dist/service-worker.js" />
+    </list>
+    <ignored path="EduDefine.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="EduDefine" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dff" />
+        <option value="joshtharakan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ponuLatest2152016" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/assets/js/revolution-custom.js" />
+        <option value="$PROJECT_DIR$/dist/test.html" />
+        <option value="$PROJECT_DIR$/app/assets/rs-plugin/css/settings.css" />
+        <option value="$PROJECT_DIR$/dist/assets/ajax/project3.html" />
+        <option value="$PROJECT_DIR$/test" />
+        <option value="$PROJECT_DIR$/app.yaml" />
+        <option value="$PROJECT_DIR$/../EduDefineWebsite/public/index.html" />
+        <option value="$PROJECT_DIR$/../EduDefineWebsite/app.yaml" />
+        <option value="$PROJECT_DIR$/../EduDefineWebsite/index.html" />
+        <option value="$PROJECT_DIR$/app/app.yaml" />
+        <option value="$PROJECT_DIR$/dist/app.yaml" />
+        <option value="$PROJECT_DIR$/app/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/../akhil/index.html" />
+        <option value="$PROJECT_DIR$/../akhil/assets/ajax/project1.html" />
+        <option value="$PROJECT_DIR$/app/assets/ajax/project2.html" />
+        <option value="$PROJECT_DIR$/app/assets/ajax/project3.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/assets/ajax/project1.html" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/../akhil/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/../akhil/assets/css/style.css.map" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.babel.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDefine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDefine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDefine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDefine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDefine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDefine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDefine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDefine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDefine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../akhil/index.html" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../akhil/index.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Edudefine\EduDefine\dist" />
+      <recent name="D:\Edudefine\EduDefine\app" />
+      <recent name="D:\Edudefine\EduDefine\app\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaf4486d-499c-4776-ae89-5bc935d8f5f6" name="Default" comment="" />
+      <created>1463543204713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463543204713</updated>
+      <workItem from="1463543206962" duration="6842000" />
+      <workItem from="1463679663016" duration="137000" />
+      <workItem from="1463680167119" duration="3552000" />
+      <workItem from="1463719341035" duration="4674000" />
+      <workItem from="1463763058349" duration="2247000" />
+      <workItem from="1463841904616" duration="3139000" />
+      <workItem from="1463846912382" duration="8463000" />
+      <workItem from="1463924109511" duration="6599000" />
+      <workItem from="1463978401212" duration="5554000" />
+      <workItem from="1464060374044" duration="7752000" />
+      <workItem from="1464146586423" duration="6560000" />
+      <workItem from="1464164512209" duration="1163000" />
+      <workItem from="1464166385783" duration="818000" />
+      <workItem from="1464516521985" duration="15433000" />
+      <workItem from="1464601133814" duration="6487000" />
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1463543343817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463543343817</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1463546976797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1463546976797</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed transition">
+      <created>1463684057855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1463684057855</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed transition">
+      <created>1464064315666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1464064315666</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed transition">
+      <created>1464067793676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1464067793676</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed transition">
+      <created>1464070409059</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1464070409059</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79420000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33543307" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <MESSAGE value="changed transition" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed transition" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="285" column="31" selection-start-line="285" selection-start-column="31" selection-end-line="285" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/bg-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/bg-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/bg-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/js/revolution-custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/js/masterslider-custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-928">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/test.html" />
+    <entry file="file://$PROJECT_DIR$/app/assets/icons/css/ionicons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="543" column="19" selection-start-line="543" selection-start-column="1" selection-end-line="543" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/css/master-slider-custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1489">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/rs-plugin/css/settings.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2356">
+          <caret line="1442" column="12" selection-start-line="1442" selection-start-column="7" selection-end-line="1442" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/images/ELL2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/ajax/project3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="82" selection-start-line="0" selection-start-column="82" selection-end-line="0" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test" />
+    <entry file="file://$PROJECT_DIR$/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EduDefineWebsite/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/../EduDefineWebsite/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sample-app/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sample-app/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/bootstrap-hover-dropdown.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EduDefineWebsite/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="177" column="16" selection-start-line="177" selection-start-column="16" selection-end-line="177" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EduDefineWebsite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="2" column="1931" selection-start-line="2" selection-start-column="1931" selection-end-line="2" selection-end-column="1931" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bavely-v1.7/home-default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="771" column="0" selection-start-line="771" selection-start-column="0" selection-end-line="771" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blog-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.babel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5385">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="116" column="27" selection-start-line="116" selection-start-column="27" selection-end-line="116" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/Edu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../akhil/assets/ajax/project1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1196" selection-start-line="0" selection-start-column="1196" selection-end-line="0" selection-end-column="1196" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/ajax/project3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/ajax/project2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/ajax/project1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../akhil/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="108" column="275" selection-start-line="108" selection-start-column="275" selection-end-line="108" selection-end-column="275" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="0" column="1283" selection-start-line="0" selection-start-column="1274" selection-end-line="0" selection-end-column="1283" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/style.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="0" column="16797" selection-start-line="0" selection-start-column="16793" selection-end-line="0" selection-end-column="16797" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../akhil/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="0" column="1315" selection-start-line="0" selection-start-column="1315" selection-end-line="0" selection-end-column="1315" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="111" column="48" selection-start-line="111" selection-start-column="48" selection-end-line="111" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../akhil/assets/css/style.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="0" column="17357" selection-start-line="0" selection-start-column="17357" selection-end-line="0" selection-end-column="17357" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
