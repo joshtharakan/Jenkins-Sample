@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
 	<name>EduDefineWebsite</name>
-=======
-	<name>EduDefine</name>
->>>>>>> 68adbdc775cb416529e39562d497d47e7d764744
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
-	</buildSpec>
-	<natures>
-=======
 		<buildCommand>
 			<name>com.aptana.ide.core.unifiedBuilder</name>
 			<arguments>
@@ -20,8 +12,6 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>com.aptana.projects.webnature</nature>
 		<nature>com.aptana.ruby.core.rubynature</nature>
->>>>>>> 68adbdc775cb416529e39562d497d47e7d764744
 	</natures>
 </projectDescription>
