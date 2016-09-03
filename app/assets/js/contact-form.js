@@ -64,13 +64,13 @@
       //send the feedback e-mail
       $.ajax({
         type: "POST",
-        url: "assets/form/library/sendmail.php",
+        url: "/sendmail.php",
         data: $("#feedbackForm").serialize(),
         success: function(data) {
           contactFormUtils.addAjaxMessage(data.message, false);
           contactFormUtils.clearForm();
           //get new Captcha on success
-          $('#captcha').attr('src', 'assets/form/library/vender/securimage/securimage_show.php?' + Math.random());
+          $('#captcha').attr('src', '/securimage_show.php?' + Math.random());
         },
         error: function(response) {
           contactFormUtils.addAjaxMessage(response.responseJSON.message, true);

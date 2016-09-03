@@ -115,6 +115,7 @@ $(document).ready(function () {
 
 
 
+/*
 //  TWEETIE -  TWITTER FEED PLUGIN THAT WORKS WITH NEW Twitter 1.1 API
 jQuery(document).ready(function () {
     $('.tweet').twittie({
@@ -124,6 +125,7 @@ jQuery(document).ready(function () {
         count: 1
     });
 });
+*/
 
 
 
