@@ -1,0 +1,41 @@
+runtime: php55
+api_version: 1
+
+handlers:
+
+- url: /
+  script: index.html
+  
+- url: /index.html
+  script: index.html
+  
+- url: /sendmail.php
+  script: form/library/sendmail.php
+
+- url: /securimage_show.php
+  script: form/library/vender/securimage/securimage_show.php
+
+- url: /assets
+  static_dir: assets
+
+- url: /images
+  static_dir: images
+
+- url: /favicon.ico
+  static_files: favicon.ico
+  upload: favicon.ico
+
+- url: /manifest.json
+  static_files: manifest.json
+  upload: manifest.json
+
+- url: /service-worker.js
+  static_files: service-worker.js
+  upload: service-worker.js
+
+- url: /config.rb
+  static_files: config.rb
+  upload: config.rb
+
+- url: /.*
+  script: 404.html
