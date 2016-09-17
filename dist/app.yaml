@@ -1,47 +1,41 @@
-application: edudefine
-version: 1
-runtime: php
+runtime: php55
 api_version: 1
-threadsafe: yes
 
 handlers:
 
-# Handle the main page by serving the index page.
-# Note the $ to specify the end of the path, since app.yaml does prefix matching.
-- url: /$
-  static_files: public/index.html
-  upload: public/index.html
+- url: /
+  script: index.html
+  
+- url: /index.html
+  script: index.html
+  
+- url: /sendmail.php
+  script: form/library/sendmail.php
 
+- url: /securimage_show.php
+  script: form/library/vender/securimage/securimage_show.php
 
-# Handle folder urls by serving the index.html page inside.
-- url: /(.*)/$
-  static_files: public/\1/index.html
-  upload: public/.*/index.html
+- url: /assets
+  static_dir: assets
 
-# Handle nearly every other file by just serving it.
-- url: /(.+)
-  static_files: public/\1
-  upload: public/(.*)
+- url: /images
+  static_dir: images
 
+- url: /favicon.ico
+  static_files: favicon.ico
+  upload: favicon.ico
 
-# Recommended file skipping declaration from the GAE tutorials
-skip_files:
-  - ^(.*/)?app\.yaml
-  - ^(.*/)?app\.yml
-  - ^(.*/)?#.*#
-  - ^(.*/)?.*~
-  - ^(.*/)?.*\.py[co]
-  - ^(.*/)?.*/RCS/.*
-  - ^(.*/)?\..*
-  - ^(.*/)?tests$
-  - ^(.*/)?test$
-  - ^test/(.*/)?
-  - ^COPYING.LESSER
-  - ^README\..*
-  - \.gitignore
-  - ^\.git/.*
-  - \.*\.lint$
-  - ^fabfile\.py
-  - ^testrunner\.py
-  - ^grunt\.js
-  - ^node_modules/(.*/)?
+- url: /manifest.json
+  static_files: manifest.json
+  upload: manifest.json
+
+- url: /service-worker.js
+  static_files: service-worker.js
+  upload: service-worker.js
+
+- url: /config.rb
+  static_files: config.rb
+  upload: config.rb
+
+- url: /.*
+  script: 404.html
